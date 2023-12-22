@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-clustering",
+  "version": "0.0.1",
+  "description": "Nodejs clustering feature experiment",
+  "main": "app.js",
+  "scripts": {
+    "server": "node src/app.js"
+  },
+  "author": "luizgfc@proton.me",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "type": "module"
+}
